@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-"""
-Ce module fournit une fonction pour calculer la factorielle d'un nombre.
-"""
 
 import sys
 
